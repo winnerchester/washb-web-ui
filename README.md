@@ -7,11 +7,11 @@ WASHB Web Ui [node.js](https://nodejs.org/tr) kullanılarak geliştirilmiştir.
 washb-web-ui'u kullanmak için gerekli modüller;\
 [discord.js](https://discord.js.org/)\
 [steam-user](https://www.npmjs.com/package/steam-user)\
-[express](https://www.npmjs.com/package/steam-user)
-[fs](https://www.npmjs.com/package/fs)
-[axios](https://www.npmjs.com/package/axios)
-[bodyParser](https://www.npmjs.com/package/bodyParser)
-[path](https://www.npmjs.com/package/path)
+[express](https://www.npmjs.com/package/steam-user)\
+[fs](https://www.npmjs.com/package/fs)\
+[axios](https://www.npmjs.com/package/axios)\\
+[bodyParser](https://www.npmjs.com/package/bodyParser)\
+[path](https://www.npmjs.com/package/path)\
 
 ```http
   npm i discord.js steam-user express fs axios bodyParser path
