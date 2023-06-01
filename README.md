@@ -26,7 +26,7 @@ Hesap ekleme\
 ![Hesap ekleme](https://cdn.discordapp.com/attachments/1101644684415225906/1113911675591069847/image.png)\
 Hesap silme\
 ![Hesap silme](https://cdn.discordapp.com/attachments/1101644684415225906/1113911800606507219/image.png)\
-Şifre oluşturucu\
+Şifre oluşturucu (winner-steam-account-generator için)\
 ![Şifre oluşturucu](https://cdn.discordapp.com/attachments/1101644684415225906/1113912010212638871/image.png)\
 Discord Log\
 ![Discord Log](https://cdn.discordapp.com/attachments/1101644684415225906/1113912465156219001/image.png)
