@@ -21,7 +21,7 @@ washb-web-ui'u kullanmak için gerekli modüller;\
 
 ## Ekran Görüntüleri
 Anasayfa\
-![Anasayfa]([https://cdn.discordapp.com/attachments/1101644684415225906/1109518197994033163/a2vkd0x3gAAAABJRU5ErkJggg.png](https://cdn.discordapp.com/attachments/1101644684415225906/1113911586030100571/image.png))\
+![Anasayfa](https://cdn.discordapp.com/attachments/1101644684415225906/1113911586030100571/image.png)\
 Hesap ekleme\
 ![Hesap ekleme](https://cdn.discordapp.com/attachments/1101644684415225906/1113911675591069847/image.png)\
 Hesap silme\
