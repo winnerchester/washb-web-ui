@@ -9,7 +9,7 @@ washb-web-ui'u kullanmak için gerekli modüller;\
 [steam-user](https://www.npmjs.com/package/steam-user)\
 [express](https://www.npmjs.com/package/steam-user)\
 [fs](https://www.npmjs.com/package/fs)\
-[axios](https://www.npmjs.com/package/axios)\\
+[axios](https://www.npmjs.com/package/axios)\
 [bodyParser](https://www.npmjs.com/package/bodyParser)\
 [path](https://www.npmjs.com/package/path)\
 
